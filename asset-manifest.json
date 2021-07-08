@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/goStack-gitHubExplorer-frontend/static/js/main.4346ad94.chunk.js",
-    "main.js.map": "/goStack-gitHubExplorer-frontend/static/js/main.4346ad94.chunk.js.map",
+    "main.js": "/goStack-gitHubExplorer-frontend/static/js/main.13e9ef08.chunk.js",
+    "main.js.map": "/goStack-gitHubExplorer-frontend/static/js/main.13e9ef08.chunk.js.map",
     "runtime-main.js": "/goStack-gitHubExplorer-frontend/static/js/runtime-main.7a5761fc.js",
     "runtime-main.js.map": "/goStack-gitHubExplorer-frontend/static/js/runtime-main.7a5761fc.js.map",
     "static/js/2.f9f012e5.chunk.js": "/goStack-gitHubExplorer-frontend/static/js/2.f9f012e5.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.7a5761fc.js",
     "static/js/2.f9f012e5.chunk.js",
-    "static/js/main.4346ad94.chunk.js"
+    "static/js/main.13e9ef08.chunk.js"
   ]
 }
